@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+config.json
+crash.log
+*.log
+dist/
+build/Sherlock_GUI/
+*.spec
+.DS_Store
+Thumbs.db

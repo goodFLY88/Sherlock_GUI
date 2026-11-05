@@ -1,0 +1,10 @@
+{
+  "theme": "light",
+  "timeout": 15,
+  "proxy": "",
+  "include_nsfw": false,
+  "show_all": false,
+  "topmost": false,
+  "font_size": 10,
+  "geometry": "1080x720"
+}

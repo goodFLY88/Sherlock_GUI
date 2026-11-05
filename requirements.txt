@@ -1,0 +1,9 @@
+requests>=2.22
+requests-futures>=1.0
+PySocks>=1.7
+colorama>=0.4
+pandas>=2.2,<3
+openpyxl>=3.0
+tomli>=2.2
+stem>=1.8
+certifi>=2019.6.16
